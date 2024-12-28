@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 👨‍💻 All of my projects are available at [https://nicksdesignwork.framer.ai/](https://nicksdesignwork.framer.ai/)
+- 👨‍💻 All of my projects are available at [https://naaportfolio.framer.website/](https://naaportfolio.framer.website/)
 
 - 💞️ I’m looking to **collaborate on every challenge you can possibly imagine!**
 
