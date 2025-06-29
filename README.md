@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 👨‍💻 All of my projects are available at [https://nicholasport.framer.website/](https://nicholasport.framer.website/)
+- 👨‍💻 All of my projects are available at [https://nichk2.github.io/nicholas_portfolio/#/](https://nichk2.github.io/nicholas_portfolio/#/)]
 
 - 💞️ I’m looking to **collaborate on every challenge you can possibly imagine!**
 
