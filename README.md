@@ -22,12 +22,3 @@ I work across <b>AI engineering</b>, <b>full-stack product development</b>, and 
 <a href="https://github.com/Nichk2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40">
-<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40">
-<img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40">
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40">
-<img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="40" height="40">
-<img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" width="40" height="40">
-</p>
