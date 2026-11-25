@@ -24,12 +24,10 @@ I work across <b>AI engineering</b>, <b>full-stack product development</b>, and 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" width="40" height="40">
-<img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40">
-<img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="40" height="40">
-<img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" width="40" height="40">
-<img src="https://www.svgrepo.com/show/452045/js.svg" alt="JavaScript" width="40" height="40">
-<img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40" height="40">
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" width="40" height="40">
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="40" height="40">
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40">
+<img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" width="40" height="40">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40">
+<img src="https://cdn.simpleicons.org/gsap/0AE448" alt="GSAP" width="40" height="40">
+<img src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" width="40" height="40">
 </p>
